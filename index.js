@@ -3,7 +3,7 @@ var animal = 'dog'
 function myAnimal() {
   // You should not need to modify this function
 
-  return animal
+  return animal;
 }
 
 function yourAnimal() {
@@ -13,12 +13,12 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   var animal = 'cat'
-  return animal
+       return animal;
 }
 
 function add2(n) {
   const two = 2
-  return n + two
+  return n + two;
 
   // Feel free to move things around!
 
